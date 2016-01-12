@@ -12,6 +12,7 @@ Feel free to send a PR :)
 
 
 # Contents
+   * [Automated Browser Testing](#automated-browser-testing)
    * [Source Code Repos](#source-code-repos)
    * [IDE](#ide)
    * [Collaboration Tools](#collaboration-tools)
@@ -23,6 +24,9 @@ Feel free to send a PR :)
    * [PaaS](#paas)
    * [ADN(Application Delivery Networking)](#adn)
 
+
+## Automated Browser Testing
+ * [openstf](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
 
 ## Source Code Repos 
 
